@@ -5,3 +5,4 @@ gem "minitest"
 gem "test-unit"
 gem "addressable", ">= 2.8.0"
 gem "nokogiri", ">= 1.13.2"
+cmark-gfm
